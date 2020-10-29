@@ -8,4 +8,9 @@
   , repo = "https://github.com/owickstrom/purescript-spec-quickcheck.git"
   , version = "v3.1.0"
   }
+, spec-mocha =
+  { dependencies = [ "exceptions", "console", "foldable-traversable", "spec" ]
+  , repo = "https://github.com/owickstrom/purescript-spec-mocha.git"
+  , version = "v4.0.0"
+  }
 }

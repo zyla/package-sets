@@ -4102,6 +4102,16 @@
     "repo": "https://github.com/owickstrom/purescript-spec-discovery.git",
     "version": "v4.0.0"
   },
+  "spec-mocha": {
+    "dependencies": [
+      "console",
+      "exceptions",
+      "foldable-traversable",
+      "spec"
+    ],
+    "repo": "https://github.com/owickstrom/purescript-spec-mocha.git",
+    "version": "v4.0.0"
+  },
   "spec-quickcheck": {
     "dependencies": [
       "aff",
